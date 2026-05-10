@@ -1,0 +1,10 @@
+# https://merrycityschool.in/robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /profile
+Disallow: /login
+Disallow: /forgot-password
+Disallow: /reset-password
+
+Sitemap: https://merrycityschool.in/sitemap.xml
